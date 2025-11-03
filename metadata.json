@@ -1,0 +1,5 @@
+{
+  "name": "Amigos da Bola (Boleiros)",
+  "description": "An interactive landing page that simulates a soccer field to help organize weekly soccer games for the Amigos da Bola (Boleiros) group. It features a drag-and-drop player lineup, real-time confirmation status, and WhatsApp integration for easy sharing.",
+  "requestFramePermissions": []
+}
